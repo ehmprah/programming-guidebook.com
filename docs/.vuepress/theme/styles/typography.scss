@@ -1,0 +1,48 @@
+html {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: $font-size;
+  line-height: 1.75em;
+  color: $color-text-dark;
+}
+
+a {
+  color: $color-violet;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+p {
+  margin: 0.75em 0;
+  code {
+    color: $color-red;
+    background: $color-background;
+    padding: 1px 4px;
+    border-radius: 2px;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 1.25em;
+  line-height: 1.5em;
+  margin: 0.75em 0;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+ul {
+  list-style-type: square;
+  padding: 0 0 0 1.5em;
+  margin: 0;
+  li {
+    margin: 0.5em 0;
+  }
+}

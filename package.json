@@ -1,0 +1,27 @@
+{
+  "name": "programming-guidebook.com",
+  "version": "1.0.0",
+  "description": "A programming guidebook",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehmprah/programming-guidebook.com.git"
+  },
+  "author": "ehmprah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehmprah/programming-guidebook.com/issues"
+  },
+  "homepage": "https://github.com/ehmprah/programming-guidebook.com#readme",
+  "devDependencies": {
+    "@vuepress/plugin-pwa": "^1.0.0-alpha.44",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "vuepress": "^1.0.0-alpha.44",
+    "vuepress-plugin-alias": "^1.0.0-beta"
+  }
+}
