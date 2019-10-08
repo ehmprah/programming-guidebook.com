@@ -11,8 +11,8 @@
       <a target="_blank" href="https://www.linkedin.com/in/ehmprah/">Linkedin</a>.
       This guidebook's source code is on
       <a
-        href="https://github.com/ehmprah/handbuch-programmieren.de"
-      >Github</a>.
+        href="https://github.com/ehmprah/programming-guidebook.com"
+      >Github</a>. This guidebook also exists in <a href="https://handbuch-programmieren.de">German</a>.
     </p>
 
     <div class="sidebar__headline">Other</div>
