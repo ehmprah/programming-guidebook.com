@@ -1,6 +1,6 @@
 ---
 type: article
-title: How to comment code
+title: How to Comment Code
 chapter: 3. Tools of the trade
 weight: 0
 published: true
@@ -53,6 +53,5 @@ After functionality, readability and understandability should be king when writi
 - write comments to explain relations and the big picture
 - write comments to explain quirks and exceptions
 - try to improve your comments with each iteration
-
 
 <img src="https://vg09.met.vgwort.de/na/3c261dab382446a38a843ea0702623e9" width="1" height="1" alt="">
