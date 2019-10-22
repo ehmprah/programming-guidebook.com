@@ -6,7 +6,7 @@ weight: 0
 published: true
 ---
 
-As a developer you're doing things around the internet a lot and you leave traces everywhere you go, which other people use to get an impression of your personality and your skills. This is generally true, but for programmers even more so:
+As a developer you're doing a lot of things on the internet and you leave traces everywhere you go, which other people use to get an impression of your personality and your skills. This is generally true, but for programmers even more so.
 
 When you put your code in public repositories on GitHub for example, when you're using social media or ask and answer questions on communities like Stack Overflow — all this information can and will be used to get an idea of you and your skills.
 
