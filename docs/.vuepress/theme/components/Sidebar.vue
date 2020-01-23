@@ -1,24 +1,28 @@
 <template>
   <div class="sidebar">
     <div class="sidebar__headline">Table of contents</div>
-    <TableOfContents/>
+    <div class="sidebar__content">
+      <TableOfContents/>
+    </div>
 
     <div class="sidebar__headline">More from the author</div>
-    <p>
-      I'm blogging on at
-      <a target="_blank" href="https://frgmnts.blog">frgmnts.blog</a> and I'm on
-      <a target="_blank" href="https://twitter.com/ehmprah">Twitter</a> and
-      <a target="_blank" href="https://www.linkedin.com/in/ehmprah/">Linkedin</a>.
-      This guidebook's source code is on
+    <div class="sidebar__content">
+      <p>
+        I'm Mario "ehmprah" Kaiser and I develop games and things, all of which
+        you can find at <a target="_blank" href="https://ehmprah.com/">ehmprah.com</a>. Follow me on
+      <a target="_blank" href="https://twitter.com/ehmprah">Twitter</a> for updates.<p/>
+
+      <p>This guidebook's source code is on
       <a
         href="https://github.com/ehmprah/programming-guidebook.com"
-      >Github</a>. This guidebook also exists in <a href="https://handbuch-programmieren.de">German</a>.
-    </p>
+      >Github</a>. There also is a german version here: <a href="https://handbuch-programmieren.de">Handbuch Programmieren</a>.
+      </p>
+    </div>
 
     <div class="sidebar__headline">Other</div>
-    <p>
+    <div class="sidebar__content">
       <a href="/imprint/">Imprint</a>
-    </p>
+    </div>
   </div>
 </template>
 
@@ -41,6 +45,10 @@ export default {
     border-bottom: 1px dashed $color-text-grey;
     padding-bottom: 0.5em;
     margin-bottom: 1em;
+  }
+
+  &__content {
+    margin-bottom: 2em;
   }
 }
 </style>
