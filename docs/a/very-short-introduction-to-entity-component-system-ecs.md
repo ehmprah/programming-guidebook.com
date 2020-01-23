@@ -1,6 +1,6 @@
 ---
 type: article
-title: A Short Introduction to Entity Component System (ECS)
+title: Very Short Introduction to Entity Component System (ECS)
 chapter: 5. Paradigms and Patterns
 weight: 2
 published: true
@@ -29,8 +29,6 @@ function time() {
     }
   })
 }
-
-setInterval(time, 1000);
 ```
 
 ## Data and logic are not birds of a feather
@@ -55,7 +53,9 @@ Of course we don't have that problem in OOP to begin with if we have a perfectly
 
 ## Where Is the Catch
 
-The advantages of the ECS paradigm are indisputable: but of course there's a catch as well. On the one hand there is performance: Since ECS encourages us to write many small systems which all iterate on potentially huge numbers of entities, we are at risk of writing very inefficient code. Of course there are numerous strategies to solve these problems, but none of them are inherent to the paradigm: you have to find and employ one yourself – which I would clearly state as a disadvantage.
+The advantages of the ECS paradigm are indisputable: but of course there's a catch as well. On the one hand there is performance: Since ECS encourages us to write many small systems which all iterate on potentially huge numbers of entities, we are at risk of writing very inefficient code. Of course there are numerous [strategies](https://skypjack.github.io/2019-03-07-ecs-baf-part-2/) to solve these problems, but none of them are inherent to the paradigm: you have to find and employ one yourself – which I would clearly state as a disadvantage.
 
 On the other hand the use cases for ECS might be somewhat limited: the paradigm originates from game development, which is also where it is being used most. Usually in most of the applications we develop today we have actions and reactions and just no use for systems which operate on data continuously. But I think that the advantages of ECS can be very valuable for all kinds of applications; in the end you always can cherry-pick what you like about a paradigm without strictly adhering to every rule.
+
+<img src="https://vg09.met.vgwort.de/na/159167d00a684bef8a483f7ecd03a745" width="1" height="1" alt="">
 
