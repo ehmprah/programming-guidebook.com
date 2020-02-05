@@ -1,14 +1,14 @@
 ---
 type: article
-title: 'The Most Important Skill for Programmers: Googling'
-chapter: 3. Tools of the trade
+title: 3 Tips for Efficient Googling
+chapter: 2. Helpful from the start
 weight: -1
 published: true
 ---
 
-It may sound a bit corny, but the most important skill for programmers and people who want to teach themselves something is the successful usage of a search engine. You're wondering if said is not true for every human in the twenty-first century? And of course you're completely right, this skill is one you should be honing anyway.
+It may sound a bit corny, but the most important skill for programmers and people who want to teach themselves something is the successful usage of a search engine. You're wondering if said is not true for every human in the twenty-first century? And of course you're completely right, this skill is one you should be honing anyway. Heck, we live in the information age, where it's not about knowing things but knowing where to find that knowledge quickly.s
 
-But as you're a programmer and learner or on the way to one or both, this is especially true for you. In programming, how fast you're finding the information you seek can easily make a difference of hours if not days. And as time's the one thing we really don't have too much of, we should care about how efficiently we find information; not only to reach our goals faster, but also to have a lot less frustration and a lot more fun on the way.
+As you're a programmer and learner or on the way to one or both, this is especially true for you. In programming, how fast you're finding the information you seek can easily make a difference of hours if not days. And as time's the one thing we really don't have too much of, we should care about how efficiently we find information; not only to reach our goals faster, but also to have a lot less frustration and a lot more fun on the way.
 
 Before you start (learning) programming, you should consider how you can improve your googling skills. Apart from general usage tips (like [these](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html) or [these](http://www.informit.com/articles/article.aspx?p=1315437)) I recommend the following strategies:
 
