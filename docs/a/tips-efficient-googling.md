@@ -1,6 +1,6 @@
 ---
 type: article
-title: 3 Tips for Efficient Googling
+title: Three Tips for Efficient Googling
 chapter: 2. Helpful from the start
 weight: -1
 published: true
