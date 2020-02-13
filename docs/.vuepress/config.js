@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   title: 'programming-guidebook.com',
   description:
-    'A guidebook for programmers and learners.',
+    'A guidebook for (aspiring) programmers.',
   markdown: {
     anchor: { permalink: false },
   },

@@ -10,12 +10,10 @@
       <p>
         I'm Mario "ehmprah" Kaiser and I develop games and things, all of which
         you can find at <a target="_blank" href="https://ehmprah.com/">ehmprah.com</a>. Follow me on
-      <a target="_blank" href="https://twitter.com/ehmprah">Twitter</a> for updates.<p/>
-
-      <p>This guidebook's source code is on
+      <a target="_blank" href="https://twitter.com/ehmprah">Twitter</a> for updates. This guidebook's source code is on
       <a
         href="https://github.com/ehmprah/programming-guidebook.com"
-      >Github</a>. There also is a german version here: <a href="https://handbuch-programmieren.de">Handbuch Programmieren</a>.
+      >Github</a>. And there also is a german version <a href="https://handbuch-programmieren.de">here</a>.
       </p>
     </div>
 
